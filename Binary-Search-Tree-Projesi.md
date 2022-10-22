@@ -91,4 +91,3 @@ Root belirlenir. Roottan küçük olanlar sol tarafta büyük olanlar sağ taraf
              0   3
                  / \
                 2    4
-                
